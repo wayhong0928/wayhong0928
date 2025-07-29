@@ -1,7 +1,8 @@
 <!-- README.md -->
 <h1 align="center">Hi 👋 I'm WayHong – you can call me William</h1>
 <p align="center">
-  <em>M.S. student @ Chung Yuan Christian University · PwC Taiwan MES front-end intern · React / TypeScript enthusiast · Data-driven problem solver</em>
+  <em> · M.S. student @ Chung Yuan Christian University </em> <br>
+  <em> · PwC Taiwan MES front-end intern · React / TypeScript enthusiast</em> <br>
 </p>
 
 <p align="center">
@@ -46,8 +47,9 @@ Open-source **health-tech** & **civic-tech** projects
 ![WayHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayhong0928&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayhong0928&layout=compact)
 
-### 📫 Reach Me At
 <!--
+### 📫 Reach Me At
+
 `hong.dev [at] example.com` ｜ [Portfolio](https://hong.github.io) ｜ [Blog](https://medium.com/@hong)
 -->
 ---
