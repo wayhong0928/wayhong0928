@@ -38,8 +38,8 @@ Open-source **health-tech** & **civic-tech** projects
 | Repo | 技術重點 | 摘要 |
 | :--- | :--- | :--- |
 | [**coding-challenges**](https://github.com/wayhong0928/coding-challenges) | Python, SQL | 刷題紀錄，涵蓋 HackerRank & LeetCode |
-| [**ColorFour-FrontEnd**](https://github.com/wayhong0928/ColorFour-FrontEnd) | Django, Vue | 畢業專題：你的專屬穿搭造型師 ColorFour |
-| [**cycu-linebot-final**](https://github.com/wayhong0928/cycu-linebot-final) | Django, LINE Messaging API | 求職面試準備聊天機器人 |
+| [**ColorFour**](https://github.com/wayhong0928/ColorFour) | Django, Vue | 畢業專題：你的專屬穿搭造型師 ColorFour |
+| [**cycu-linebot-final**](https://github.com/wayhong0928/cycu-linebot-final) | Django, LINE BOT API | 求職面試準備聊天機器人 |
 | [**vegetableShop**](https://github.com/wayhong0928/vegetableShop) | HTML, CSS, JS, RWD | 蔬菜銷售網站，前端專案與購物車功能 |
 | [**android-notify**](https://github.com/wayhong0928/android-notify) | Kotlin | 中原大學公告推播 App，別再等通知了！讓通知自己來找你 |
 
