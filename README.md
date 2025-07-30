@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=wayhong0928&label=Profile%20views&color=0e75b6" alt="profile views" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/威宏-陳-52a165299">
+  <a href="www.linkedin.com/in/wei-hong-chen-52a165299">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
