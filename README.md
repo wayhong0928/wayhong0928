@@ -32,6 +32,7 @@
 | Project | Tech Stack | Summary | Timeline |
 | :--- | :--- | :--- | :--- |
 | [**coding-challenges**](https://github.com/wayhong0928/coding-challenges) | Python, SQL | Practice log for HackerRank & LeetCode | 2025/07 ~ now |
+| [**epub-pdf-to-txt-converter**](https://github.com/wayhong0928/epub-pdf-to-txt-converter) | Python | Convert EPUB/PDF folders to TXT; keep folder structure | 2025/08 |
 | [**ColorFour**](https://github.com/wayhong0928/ColorFour) | Django, Vue | Capstone project: personal outfit stylist | 2024/07 ~ 2024/12 |
 | [**Job Interview Prep Chatbot**](https://github.com/wayhong0928/cycu-linebot-final) | Django, LINE BOT API | Interview preparation chatbot | 2024/05 ~ 2024/06 |
 | [**CYCU Announcement Push App**](https://github.com/wayhong0928/android-notify) | Kotlin | CYCU announcement push app | 2023/11 ~ 2024/01 |
