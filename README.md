@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://wayhong0928.github.io">➡ View my full portfolio on GitHub Pages (coming soon)</a>
+  <a href="https://wayhong0928.github.io">➡ View my full portfolio on GitHub Pages</a>
 </p>
 
 ---
