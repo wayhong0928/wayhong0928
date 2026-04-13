@@ -31,6 +31,7 @@
 ### 🚀 Featured Projects
 | Project | Tech Stack | Summary | Timeline |
 | :--- | :--- | :--- | :--- |
+| [**markdown-tool**](https://github.com/wayhong0928/markdown-tool) | Markdown, Marp | Turn Markdown into slide decks using Marp | 2026/04 ~ now |
 | [**coding-challenges**](https://github.com/wayhong0928/coding-challenges) | Python, SQL | Practice log for HackerRank & LeetCode | 2025/07 ~ now |
 | [**Epub2Markdown-Converter**](https://github.com/wayhong0928/Epub2Markdown-Converter) | Python | Convert EPUB to Markdown | 2026/01 |
 | [**ColorFour**](https://github.com/wayhong0928/ColorFour) | Django, Vue | Capstone project: personal outfit stylist | 2024/07 ~ 2024/12 |
