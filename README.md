@@ -40,10 +40,6 @@
 | [**E-commerce Website Backend**](https://github.com/wayhong0928/jsp) | JS, JSP, MySQL | “KanBar!” online bookstore backend | 2023/04 ~ 2023/06 |
 | [**Vegetable Shop Frontend**](https://github.com/wayhong0928/vegetableShop) | HTML, CSS, JS, RWD | Vegetable shop site with cart | 2022/01 ~ 2023/01 |
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=wayhong0928&show_icons=true" alt="WayHong's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayhong0928&layout=compact" alt="Top languages" />
-
 ---
 
 > “Code is a tool; **impact** is the goal.”
