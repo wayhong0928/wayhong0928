@@ -32,13 +32,8 @@
 | Project | Tech Stack | Summary | Timeline |
 | :--- | :--- | :--- | :--- |
 | [**markdown-tool**](https://github.com/wayhong0928/markdown-tool) | Markdown, Marp | Turn Markdown into slide decks using Marp | 2026/04 ~ now |
-| [**coding-challenges**](https://github.com/wayhong0928/coding-challenges) | Python, SQL | Practice log for HackerRank & LeetCode | 2025/07 ~ now |
 | [**Epub2Markdown-Converter**](https://github.com/wayhong0928/Epub2Markdown-Converter) | Python | Convert EPUB to Markdown | 2026/01 |
 | [**ColorFour**](https://github.com/wayhong0928/ColorFour) | Django, Vue | Capstone project: personal outfit stylist | 2024/07 ~ 2024/12 |
-| [**Job Interview Prep Chatbot**](https://github.com/wayhong0928/cycu-linebot-final) | Django, LINE BOT API | Interview preparation chatbot | 2024/05 ~ 2024/06 |
-| [**CYCU Announcement Push App**](https://github.com/wayhong0928/android-notify) | Kotlin | CYCU announcement push app | 2023/11 ~ 2024/01 |
-| [**E-commerce Website Backend**](https://github.com/wayhong0928/jsp) | JS, JSP, MySQL | “KanBar!” online bookstore backend | 2023/04 ~ 2023/06 |
-| [**Vegetable Shop Frontend**](https://github.com/wayhong0928/vegetableShop) | HTML, CSS, JS, RWD | Vegetable shop site with cart | 2022/01 ~ 2023/01 |
 
 ---
 
