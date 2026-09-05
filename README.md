@@ -35,7 +35,7 @@
 | Project                                                                               | Tech Stack       | Summary                                                                               | Timeline          |
 | :------------------------------------------------------------------------------------ | :--------------- | :------------------------------------------------------------------------------------ | :---------------- |
 | [**mis-thesis-guide**](https://github.com/wayhong0928/mis-thesis-guide)               | Python, Markdown | Research methods & thesis-writing knowledge base for MIS/social-science grad students | 2026/09           |
-| [**markdown-tool**](https://github.com/wayhong0928/markdown-tool)                     | Markdown, Marp   | Turn Markdown into slide decks using Marp                                             | 2026/04           |
+| [**md-to-slides**](https://github.com/wayhong0928/md-to-slides)                       | Markdown, Marp   | Turn Markdown into slide decks using Marp                                             | 2026/04           |
 | [**Epub2Markdown-Converter**](https://github.com/wayhong0928/Epub2Markdown-Converter) | Python           | Convert EPUB to Markdown                                                              | 2026/01           |
 | [**ColorFour**](https://github.com/wayhong0928/ColorFour)                             | Django, Vue      | Capstone project: personal outfit stylist                                             | 2024/07 ~ 2024/12 |
 
