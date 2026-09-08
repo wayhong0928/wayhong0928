@@ -32,12 +32,13 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                                               | Tech Stack       | Summary                                                                               | Timeline          |
-| :------------------------------------------------------------------------------------ | :--------------- | :------------------------------------------------------------------------------------ | :---------------- |
-| [**mis-thesis-guide**](https://github.com/wayhong0928/mis-thesis-guide)               | Python, Markdown | Research methods & thesis-writing knowledge base for MIS/social-science grad students | 2026/09           |
-| [**md-to-slides**](https://github.com/wayhong0928/md-to-slides)                       | Markdown, Marp   | Turn Markdown into slide decks using Marp                                             | 2026/04           |
-| [**Epub2Markdown-Converter**](https://github.com/wayhong0928/Epub2Markdown-Converter) | Python           | Convert EPUB to Markdown                                                              | 2026/01           |
-| [**ColorFour**](https://github.com/wayhong0928/ColorFour)                             | Django, Vue      | Capstone project: personal outfit stylist                                             | 2024/07 ~ 2024/12 |
+| Project                                                                    | Tech Stack        | Summary                                                                                | Timeline          |
+| :-------------------------------------------------------------------------- | :---------------- | :-------------------------------------------------------------------------------------- | :---------------- |
+| [**mis-thesis-guide**](https://github.com/wayhong0928/mis-thesis-guide)     | Python, Markdown  | Research methods & thesis-writing knowledge base for MIS/social-science grad students    | 2026/09           |
+| [**mis-thesis-skills**](https://github.com/wayhong0928/mis-thesis-skills)   | Markdown, Python  | Claude Code plugin: audit skills for research questions and academic writing, built for mis-thesis-guide | 2026/09 |
+| [**md-to-slides**](https://github.com/wayhong0928/md-to-slides)             | Markdown, Marp    | Turn Markdown into slide decks using Marp                                               | 2026/04           |
+| [**AIASE2026-portfolio**](https://github.com/wayhong0928/AIASE2026-portfolio) | Python, Node.js | NCKU Generative AI Systems & Engineering coursework: RAG, agent memory, verifiable agent skills | 2026/03 ~ 2026/06 |
+| [**ColorFour**](https://github.com/wayhong0928/ColorFour)                   | Django, Vue       | Capstone project: personal outfit stylist                                               | 2024/07 ~ 2024/12 |
 
 ---
 
