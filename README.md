@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm WayHong – you can call me William</h1>
 <p align="center">
   <em> · M.S. student @ Chung Yuan Christian University </em> <br>
-  <em> · EY Cybersecurity Consulting Intern · AI Governance / Zero Trust</em> <br>
+  <em> · EY Cybersecurity Consulting Intern · CS Architecture / AI Governance</em> <br>
   <em> · Previously: PwC Taiwan MES front-end intern · React / TypeScript</em> <br>
 </p>
 
