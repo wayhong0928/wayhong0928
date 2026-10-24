@@ -40,6 +40,19 @@
 | [**AIASE2026-portfolio**](https://github.com/wayhong0928/AIASE2026-portfolio) | Python, Node.js | NCKU Generative AI Systems & Engineering coursework: RAG, agent memory, verifiable agent skills | 2026/03 ~ 2026/06 |
 | [**ColorFour**](https://github.com/wayhong0928/ColorFour)                   | Django, Vue       | Capstone project: personal outfit stylist                                               | 2024/07 ~ 2024/12 |
 
+### 🧭 A thesis workflow in six tools
+
+For MIS and social-science master's students: one guide site and five tools that cover a thesis from choosing a topic to the oral defense. Each stage notes where AI output has to be checked against the original source. [How the pieces fit together](https://wayhong0928.github.io/mis-thesis-guide/pages/ai-thesis-stages.html)
+
+| Tool | Type | Use it for |
+| :-- | :-- | :-- |
+| [Thesis guide](https://wayhong0928.github.io/mis-thesis-guide/) | Website | What to do at each stage of research and writing |
+| [thesis-toolkit](https://github.com/wayhong0928/mis-thesis-skills) | Claude Code plugin | Narrowing a topic, auditing research questions, checking academic Chinese |
+| [Thesis notes template](https://wayhong0928.github.io/thesis-notes-template/) | Obsidian vault | Paper notes, construct cards and hypothesis notes in one vault |
+| [md-to-slides](https://wayhong0928.github.io/md-to-slides/) | Slide tool | Proposal and defense decks written in Markdown |
+| [Claude Code workflow template](https://wayhong0928.github.io/claude-workflow-template/) | Claude Code config | Resuming where the last session stopped; a second agent reviews AI output |
+| [AI Agent notes](https://wayhong0928.github.io/ai-agent-notes/) | Website | How Claude Code and Codex work and how to set them up |
+
 ---
 
 > “Code is a tool; **impact** is the goal.”
